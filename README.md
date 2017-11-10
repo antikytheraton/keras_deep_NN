@@ -1,2 +1,3 @@
-# SummerIA_deep_learning
-Deep Learning workshop at SummerIA
+# Keras Neural Network Example
+
+[deep_NN.py](./deep_NN.py)
