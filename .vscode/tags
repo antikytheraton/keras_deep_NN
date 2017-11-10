@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CIFAR10_ORIGIN	../utils.py	/^CIFAR10_ORIGIN = 'http:\/\/www.cs.toronto.edu\/~kriz\/cifar-10-python.tar.gz'$/;"	kind:variable	line:18
+HTTPError	../utils.py	/^from six.moves.urllib.error import HTTPError$/;"	kind:namespace	line:11
+MNIST_ORIGIN	../utils.py	/^MNIST_ORIGIN = 'https:\/\/s3.amazonaws.com\/img-datasets\/mnist.npz'$/;"	kind:variable	line:17
+Progbar	../utils.py	/^from keras.utils.generic_utils import Progbar$/;"	kind:namespace	line:9
+ProgressTracker	../utils.py	/^        class ProgressTracker(object):$/;"	kind:class	line:37
+ProgressTracker	../utils.py	/^        class ProgressTracker(object):$/;"	kind:class	line:87
+URLError	../utils.py	/^from six.moves.urllib.error import URLError$/;"	kind:namespace	line:12
+absolute_import	../utils.py	/^from __future__ import absolute_import$/;"	kind:namespace	line:1
+cPickle	../utils.py	/^from six.moves import cPickle$/;"	kind:namespace	line:14
+deep_NN.py	../deep_NN.py	1;"	kind:file	line:1
+dl_progress	../utils.py	/^        def dl_progress(count, block_size, total_size):$/;"	kind:function	line:40
+dl_progress	../utils.py	/^        def dl_progress(count, block_size, total_size):$/;"	kind:function	line:90
+load_batch	../utils.py	/^def load_batch(fpath, label_key='labels'):$/;"	kind:function	line:148
+load_cifar10	../utils.py	/^def load_cifar10(path="cifar10\/"):$/;"	kind:function	line:68
+load_mnist	../utils.py	/^def load_mnist(path="mnist\/"):$/;"	kind:function	line:21
+np	../utils.py	/^import numpy as np$/;"	kind:namespace	line:6
+os	../utils.py	/^import os$/;"	kind:namespace	line:4
+print_function	../utils.py	/^from __future__ import print_function$/;"	kind:namespace	line:2
+progbar	../utils.py	/^            progbar = None$/;"	kind:variable	line:38
+progbar	../utils.py	/^            progbar = None$/;"	kind:variable	line:88
+shutil	../utils.py	/^import shutil$/;"	kind:namespace	line:8
+sys	../utils.py	/^import sys$/;"	kind:namespace	line:5
+tarfile	../utils.py	/^import tarfile$/;"	kind:namespace	line:7
+urlretrieve	../utils.py	/^from six.moves.urllib.request import urlretrieve$/;"	kind:namespace	line:13
+utils.py	../utils.py	1;"	kind:file	line:1
